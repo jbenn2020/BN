@@ -1,5 +1,6 @@
 import java.util.Random;   // Needed for the Random class
 //Comment to change file which is used for github demo
+//Another change to the file
 /**
    This class simulates rolling a pair of dice 10,000 times
    and counts the number of times doubles of are rolled for
